@@ -1,0 +1,25 @@
+{
+  "name": "TEST_flight_app_TEST",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micahThor/TEST_flight_app_TEST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micahThor/TEST_flight_app_TEST/issues"
+  },
+  "homepage": "https://github.com/micahThor/TEST_flight_app_TEST#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "superagent": "^5.1.3"
+  }
+}
